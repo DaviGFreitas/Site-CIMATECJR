@@ -13,7 +13,7 @@
         <label for="email">Email</label>
         <input type="email" name="email" id="email" required>
         <label for="massage">Mensagem</label>
-        <textarea name="message"  cols="0" rows="40"></textarea>
+        <textarea name="message" rows="40"></textarea>
         <button type="submit">Enviar</button>
    </form>
 </body>
